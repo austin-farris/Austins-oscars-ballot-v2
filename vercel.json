@@ -1,8 +1,1 @@
-{
-  "crons": [
-    {
-      "path": "/api/update-odds",
-      "schedule": "0 */2 * * *"
-    }
-  ]
-}
+
